@@ -17,3 +17,4 @@ DS3231 RTC Clock Module (Get a quality one from Adafruit or other reputable supp
 Micro Servo
 RCW-0001 Micro Ultrasonic Sensor
 uBlock NEO 6M GPS Module
+/* we use ch341 driverrs for the clone or cheap arduino */
