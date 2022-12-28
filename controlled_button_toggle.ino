@@ -1,3 +1,4 @@
+//This code prevent dangling or bouncing state of the button.
 bool led_state=false;
 unsigned long tc=0;
 
