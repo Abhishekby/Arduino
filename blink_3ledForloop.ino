@@ -9,9 +9,9 @@ void setup()
 void loop()
 { for(int p=2;p<5;p++)
 {
-  digitalWrite(p, HIGH);
+  digitalWrite(p, LOW); // must be high
   delay(1000);
-  digitalWrite(p, LOW);
+  digitalWrite(p, HIGH); //must be low
 }
 
 }
